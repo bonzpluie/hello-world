@@ -1,2 +1,2 @@
 # hello-world
-The very first demo.
+I am crazrly curious about everything and trying really hard to figure things out.
