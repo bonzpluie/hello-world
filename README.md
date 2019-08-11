@@ -1,2 +1,2 @@
 # hello-world
-I am crazrly curious about everything and trying really hard to figure things out.
+I am crazily curious about everything and trying really hard to figure things out.
