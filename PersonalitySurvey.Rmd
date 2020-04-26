@@ -1,0 +1,13 @@
+```{r}
+df = read.csv("PersonalitySurvey.csv")
+summary(df)
+```
+
+
+```{r}
+library(ggplot2)
+ggplot(data = df) + 
+  geom_point(mapping = aes(x=Zodiac, y=Extroverted, col = Zodiac))+
+  coord_flip()
+  
+```
